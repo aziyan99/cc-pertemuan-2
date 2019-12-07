@@ -1,0 +1,45 @@
+|------------------|
+| LEARNING RESOURCE|
+|------------------|
+
+- Must Know (Web developer roadmap)
+    - https://roadmap.sh/
+
+- Courses web
+    - https://www.sololearn.com/
+    - https://www.freecodecamp.org/
+    - https://www.w3schools.com/html/default.asp
+
+- Css Documentation
+    - https://devdocs.io/css/
+    - https://www.w3schools.com/cssref/
+    - https://developer.mozilla.org/en-US/docs/Web/CSS
+
+- Ebook
+    - https://endangcahyapermana.files.wordpress.com/2016/03/belajar-html-dan-css.pdf
+
+- Youtube Playlist
+    - html basic
+        - https://www.youtube.com/playlist?list=PLFIM0718LjIVWpIhlNA_sU-4ZWvN4uSmb (web programming unpas)
+    
+    - css 
+        - basic 
+            - https://www.youtube.com/playlist?list=PLFIM0718LjIUBrbm6Gdh6k7ZUvPIAZm7p (wpu)
+        - layouting 
+            - https://www.youtube.com/playlist?list=PLFIM0718LjIUu4Ju9GUL5zpLcuq08TKYr (wpu)
+        - css3
+            - https://www.youtube.com/playlist?list=PLFIM0718LjIVCmrSWbZPKCccCkfFw-Naa (wpu)
+
+- Youtube crash courses videos
+        - https://www.youtube.com/watch?v=UB1O30fR-EE (travis media) (html crash courses)
+        - https://www.youtube.com/watch?v=yfoY53QXEnI&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=2 (travis media) (cs crash courses)
+        - https://www.youtube.com/watch?v=Wm6CUkswsNw&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=3 (travis media) (build responsive html5 web)
+        - https://www.youtube.com/watch?v=JJSoEo8JSnc&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=4 (travis media) (css flexbox)
+        - https://www.youtube.com/watch?v=jV8B24rSN5o&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=5 (travis media) (css grid layout)
+        - https://www.youtube.com/watch?v=P7t13SGytRk&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=6 (travis media) (build netflix landing page)
+
+        - Full playlist travis media
+            - https://www.youtube.com/playlist?list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU
+
+        - Full playlist freecodecamp 
+            - https://www.youtube.com/playlist?list=PLWKjhJtqVAbnSe1qUNMG7AbPmjIG54u88
